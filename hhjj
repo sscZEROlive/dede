@@ -1,5 +1,5 @@
 {
-	"gameAttributes": [
+	"gameAttributes": 
 		{
 			"key": "playerBioInfo",
 			"value": {
@@ -5097,5 +5097,4 @@
 				}
 			}
 		}
-	]
 }
