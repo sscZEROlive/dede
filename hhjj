@@ -4,8 +4,8 @@
 			"key": "playerBioInfo",
 			"value": {
 				"frequencies": {
-					"USA": 125,
-					"Canada": 10,
+					"USA": 1250,
+					"Canada": 20,
 					"Spain": 10,
 					"Germany": 10,
 					"China": 2,
@@ -15,7 +15,8 @@
 					"Australia": 10,
 					"Denmark": 10,
 					"Greece": 15,
-					"France": 10
+					"France": 10,
+					"Extra-Terrestrial": 1
 				},
 				"countries": {
 					"USA": {
@@ -5053,7 +5054,45 @@
 							"Newman": 1,
 							"Hall": 1,
 							"Fern": 1
-						}
+						},
+					"Extra-Terrestrial": {
+						"first": {
+							"Lynnard": 1,
+							"Joehopus": 1,
+							"Gas": 1,
+							"Porn": 1,
+							"Iwantadi": 1,
+							"Chicken": 1,
+							"Cock": 1,
+							"Dookie": 1,
+							"Dingle": 1,
+							"Gay": 1,
+							"Captain": 1,
+							"Cuntmaster": 1,
+							"Yoda": 1,
+							"Baby": 1,
+							"Lord": 1
+							},
+						"last": {
+							"Waggatagga": 1,
+							"Xvcggtrt": 1,
+							"Pusher": 1,
+							"Wack": 1,
+							"Skynnard": 1,
+							"Amongus": 1,
+							"Tik-Tok": 1,
+							"Nucktik": 1,
+							"Bag": 1,
+							"Can": 1,
+							"Stix": 1,
+							"Llvkb": 1,
+							"Jesdpit": 1,
+							"Toilet": 1,
+							"Purvioralorius": 1,
+							"Baftift": 1,
+							"GUlloug": 1,
+							"Yull": 1,
+							"Vairbynft": 1
 					}
 				}
 			}
